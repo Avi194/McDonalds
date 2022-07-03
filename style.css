@@ -1,0 +1,209 @@
+.open{
+    background-color: rgb(244, 209, 252);
+}
+.home{
+
+        background-color: rgb(255, 224, 224);
+        text-align: center;
+
+}
+.hii{
+    text-align: center;
+}
+.hiii{
+    text-align: center;
+    background-color: gainsboro;
+}
+.nav a{
+background-color: rgb(0, 0, 0);
+color: rgb(255, 255, 255);
+    text-decoration: none;
+    padding: 16px 40px ;
+    text-align: center;
+   }
+   .nav a:active{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+
+   }
+.nav a:hover{
+    background-color: rgb(165, 165, 165);
+    color: black;
+   }
+   .nav2 a{
+    background-color: rgb(242, 239, 239);
+    color: rgb(0, 0, 0);
+        text-decoration: none;
+        padding: 16px 40px ;
+        text-align: center;
+       }
+       .nav2 a:active{
+        background-color: rgb(0, 0, 0);
+        color: rgb(255, 255, 255);
+    
+       }
+    .nav2 a:hover{
+        background-color: rgb(165, 165, 165);
+        color: black;
+       }
+       .nav2{
+           background-color: rgb(255, 224, 224);
+           text-align: center;
+       }
+       .nav3 a{
+        background-color: rgb(255, 255, 255);
+        color: rgb(0, 0, 0);
+            text-decoration: none;
+            padding: 16px 40px ;
+            text-align: center;
+           }
+           .nav3 a:active{
+            background-color: rgb(0, 0, 0);
+            color: rgb(255, 255, 255);
+        
+           }
+        .nav3 a:hover{
+            background-color: rgb(165, 165, 165);
+            color: black;
+           }
+           .nav3{
+               text-align: center;
+           }
+           .nav4 a{
+            background-color: rgb(242, 239, 239);
+            color: rgb(0, 0, 0);
+                text-decoration: none;
+                padding: 16px 40px ;
+                text-align: center;
+               }
+               .nav4 a:active{
+                background-color: rgb(0, 0, 0);
+                color: rgb(255, 255, 255);
+            
+               }
+            .nav4 a:hover{
+                background-color: rgb(165, 165, 165);
+                color: black;
+               }
+               .nav4{
+                   text-align: center;
+               }
+               .apple a{
+                background-color: rgb(242, 239, 239);
+                color: rgb(0, 0, 0);
+                    text-decoration: none;
+                    padding: 16px 40px ;
+                    text-align: center;
+                   }
+                   .apple a:active{
+                    background-color: rgb(0, 0, 0);
+                    color: rgb(255, 255, 255);
+                
+                   }
+                .apple a:hover{
+                    background-color: rgb(165, 165, 165);
+                    color: black;
+                   }
+                   .apple{
+                       text-align: center;
+                   }
+                   .apple1 a{
+                    background-color: rgb(242, 239, 239);
+                    color: rgb(0, 0, 0);
+                        text-decoration: none;
+                        padding: 16px 40px ;
+                        text-align: center;
+                       }
+                       .apple1 a:active{
+                        background-color: rgb(0, 0, 0);
+                        color: rgb(255, 255, 255);
+                    
+                       }
+                    .apple1 a:hover{
+                        background-color: rgb(165, 165, 165);
+                        color: black;
+                       }
+                       .apple1{
+                        background-color: floralwhite;
+                           text-align: center;
+                       }
+                       .apple2 a{
+                        background-color: rgb(242, 239, 239);
+                        color: rgb(0, 0, 0);
+                            text-decoration: none;
+                            padding: 16px 40px ;
+                            text-align: center;
+                           }
+                           .apple2 a:active{
+                            background-color: rgb(0, 0, 0);
+                            color: rgb(255, 255, 255);
+                        
+                           }
+                        .apple2 a:hover{
+                            background-color: rgb(165, 165, 165);
+                            color: black;
+                           }
+                           .apple2{
+                            background-color: floralwhite;
+                               text-align: center;
+                           }
+                           .apple3 a{
+                            background-color: rgb(242, 239, 239);
+                            color: rgb(0, 0, 0);
+                                text-decoration: none;
+                                padding: 16px 40px ;
+                                text-align: center;
+                               }
+                               .apple3 a:active{
+                                background-color: rgb(0, 0, 0);
+                                color: rgb(255, 255, 255);
+                            
+                               }
+                            .apple3 a:hover{
+                                background-color: rgb(165, 165, 165);
+                                color: black;
+                               }
+                               .apple3{
+                                background-color: floralwhite;
+                                   text-align: center;
+                               }
+                               .apple4 a{
+                                background-color: rgb(242, 239, 239);
+                                color: rgb(0, 0, 0);
+                                    text-decoration: none;
+                                    padding: 16px 40px ;
+                                    text-align: center;
+                                   }
+                                   .apple4 a:active{
+                                    background-color: rgb(0, 0, 0);
+                                    color: rgb(255, 255, 255);
+                                
+                                   }
+                                .apple4 a:hover{
+                                    background-color: rgb(165, 165, 165);
+                                    color: black;
+                                   }
+                                   .apple4{
+                                       background-color: floralwhite;
+                                       text-align: center;
+                                   }
+                                   .apple5 a{
+                                    background-color: rgb(242, 239, 239);
+                                    color: rgb(0, 0, 0);
+                                        text-decoration: none;
+                                        padding: 16px 40px ;
+                                        text-align: center;
+                                       }
+                                       .apple5 a:active{
+                                        background-color: rgb(0, 0, 0);
+                                        color: rgb(255, 255, 255);
+                                    
+                                       }
+                                    .apple5 a:hover{
+                                        background-color: rgb(165, 165, 165);
+                                        color: black;
+                                       }
+                                       .apple5{
+                                           background-color: rgb(231, 255, 253);
+                                           text-align: center;
+                                       }
